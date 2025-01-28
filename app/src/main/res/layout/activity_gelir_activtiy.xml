@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@android:color/white">
+
+
+    <!-- Büyük Dikdörtgen (CardView) -->
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_margin="16dp"
+        app:cardCornerRadius="20dp"
+        app:cardElevation="8dp"
+        android:foreground="?android:attr/selectableItemBackground">
+
+        <!-- Dikdörtgen İçeriği -->
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/blue"
+            android:padding="16dp">
+
+            <!-- MERHABA KULLANICI -->
+            <TextView
+                android:id="@+id/welcomeText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="MERHABA KULLANICI"
+                android:textSize="24sp"
+                android:textColor="@android:color/white"/>
+
+            <!-- Toplam Paranız -->
+            <TextView
+                android:id="@+id/totalAmountText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/welcomeText"
+                android:layout_marginTop="16dp"
+                android:text="Toplam Geliriniz: [TUTAR] TL"
+                android:textColor="@android:color/white"
+                android:textSize="18sp" />
+
+        </RelativeLayout>
+    </androidx.cardview.widget.CardView>
+    <!-- Banka Hesapları Yazısı -->
+
+    <!-- Banka Hesabı 1 -->
+
+    <TextView
+        android:id="@+id/accountTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/bankAccount1Layout"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="2dp"
+        android:layout_marginTop="-31dp"
+        android:text="Banka Hesapları"
+        android:textColor="@android:color/black"
+        android:textSize="20sp" />
+
+    <LinearLayout
+        android:id="@+id/bankAccount1Layout"
+        android:layout_width="800dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="200dp"
+        android:layout_marginBottom="250dp"
+        android:background="@color/dark_blue"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <!-- Banka Resmi -->
+            <ImageView
+                android:id="@+id/bankImage1"
+                android:layout_width="48dp"
+                android:layout_height="48dp"
+                android:layout_gravity="center_vertical"
+                android:src="@drawable/isbank" />
+
+            <!-- Banka İsmi -->
+            <TextView
+                android:id="@+id/bankName1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="8dp"
+                android:text="İş Bankası"
+                android:textColor="@android:color/white"
+                android:textSize="16sp" />
+        </LinearLayout>
+
+        <!-- Hesap Bilgileri -->
+        <TextView
+            android:id="@+id/bankAccountInfo1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:text="Hesapta: 1000 TL | Gelir: 500 TL"
+            android:textColor="@android:color/white"
+            android:textSize="14sp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/bankAccount1Layout1"
+        android:layout_width="800dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="350dp"
+        android:layout_marginBottom="200dp"
+        android:background="@color/red"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <!-- Banka Resmi -->
+            <ImageView
+                android:id="@+id/bankImage2"
+                android:layout_width="48dp"
+                android:layout_height="48dp"
+                android:layout_gravity="center_vertical"
+                android:src="@drawable/ziraatbank" />
+
+            <!-- Banka İsmi -->
+            <TextView
+                android:id="@+id/bankName2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="8dp"
+                android:text="Ziraat Bankası"
+                android:textColor="@android:color/white"
+                android:textSize="16sp" />
+        </LinearLayout>
+
+        <!-- Hesap Bilgileri -->
+        <TextView
+            android:id="@+id/bankAccountInfo2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:text="Hesapta: 1000 TL | Gelir: 500 TL"
+            android:textColor="@android:color/white"
+            android:textSize="14sp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/bankAccount1Layout3"
+        android:layout_width="800dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="500dp"
+        android:layout_marginBottom="20dp"
+        android:background="@color/green"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <!-- Banka Resmi -->
+            <ImageView
+                android:id="@+id/bankImage3"
+                android:layout_width="48dp"
+                android:layout_height="48dp"
+                android:layout_gravity="center_vertical"
+                android:src="@drawable/garantibank" />
+
+            <!-- Banka İsmi -->
+            <TextView
+                android:id="@+id/bankName3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="8dp"
+                android:text="Garanti Bankası"
+                android:textColor="@android:color/white"
+                android:textSize="16sp" />
+        </LinearLayout>
+
+        <!-- Hesap Bilgileri -->
+        <TextView
+            android:id="@+id/bankAccountInfo3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:text="Hesapta: 1000 TL | Gelir: 500 TL"
+            android:textColor="@android:color/white"
+            android:textSize="14sp" />
+
+    </LinearLayout>
+
+
+</RelativeLayout>

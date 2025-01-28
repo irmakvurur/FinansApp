@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/faturaBilgisiTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="20dp"
+        android:text="Fatura Bilgisi"
+        android:textSize="20sp" />
+
+    <EditText
+        android:id="@+id/faturaBilgisiInput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/faturaBilgisiTextView"
+        android:layout_alignStart="@+id/faturaBilgisiTextView"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="18dp"
+        android:layout_marginEnd="16dp"
+        android:hint="Fatura Detayları (Örn: Elektrik, Su, Telefon)"
+        android:inputType="text"
+        android:padding="8dp" />
+
+    <EditText
+        android:id="@+id/odemeMiktariInput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/faturaBilgisiInput"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="7dp"
+        android:layout_marginEnd="16dp"
+        android:hint="Ödeme Miktarı"
+        android:inputType="numberDecimal"
+        android:padding="8dp" />
+
+    <TextView
+        android:id="@+id/odemeTarihiTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/odemeMiktariInput"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="69dp"
+        android:text="Ödeme Tarihi"
+        android:textSize="20sp" />
+
+    <EditText
+        android:id="@+id/odemeTarihiInput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/odemeTarihiTextView"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="7dp"
+        android:layout_marginEnd="16dp"
+        android:hint="Ödeme Tarihi (GG/AA/YYYY)"
+        android:inputType="date"
+        android:padding="8dp" />
+
+    <Button
+        android:id="@+id/odemeYapButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/odemeTarihiInput"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="144dp"
+        android:layout_marginTop="66dp"
+        android:backgroundTint="@color/dark_blue"
+        android:textColor="@color/white"
+        android:layout_marginEnd="144dp"
+        android:text="Ödeme Yap" />
+
+    <TextView
+        android:id="@+id/odemeGecmisiTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/odemeYapButton"
+        android:layout_marginTop="20dp"
+        android:layout_marginStart="16dp"
+        android:text="Ödenen Faturalar"
+        android:textSize="18sp" />
+
+</RelativeLayout>
