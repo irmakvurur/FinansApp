@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-mergeDebugResources-34:\\layout\\activity_gider.xml",
+        "source": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-main-37:\\layout\\activity_gider.xml"
+    },
+    {
+        "merged": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-mergeDebugResources-34:\\layout\\activity_singin.xml",
+        "source": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-main-37:\\layout\\activity_singin.xml"
+    },
+    {
+        "merged": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-mergeDebugResources-34:\\layout\\viewholder_crypto.xml",
+        "source": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-main-37:\\layout\\viewholder_crypto.xml"
+    },
+    {
+        "merged": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-mergeDebugResources-34:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-main-37:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.finans.app-mergeDebugResources-34:/layout/activity_gelir_activtiy.xml",
+        "source": "com.example.finans.app-main-37:/layout/activity_gelir_activtiy.xml"
+    },
+    {
+        "merged": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-mergeDebugResources-34:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-main-37:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-mergeDebugResources-34:\\layout\\viewholder_stock.xml",
+        "source": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-main-37:\\layout\\viewholder_stock.xml"
+    },
+    {
+        "merged": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-mergeDebugResources-34:\\layout\\activity_signin.xml",
+        "source": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-main-37:\\layout\\activity_signin.xml"
+    },
+    {
+        "merged": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-mergeDebugResources-34:\\layout\\activity_fatura.xml",
+        "source": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-main-37:\\layout\\activity_fatura.xml"
+    },
+    {
+        "merged": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-mergeDebugResources-34:\\layout\\activity_gelir_activtiy.xml",
+        "source": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-main-37:\\layout\\activity_gelir_activtiy.xml"
+    }
+]

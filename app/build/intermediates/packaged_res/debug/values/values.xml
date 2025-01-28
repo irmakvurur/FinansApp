@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Light_purple">#F4F6F9</color>
+    <color name="black">#FF000000</color>
+    <color name="blue">#0000FF</color>
+    <color name="dark_blue">#005B99</color>
+    <color name="green">#009739</color>
+    <color name="purple">#6335e1</color>
+    <color name="red">#AA0000</color>
+    <color name="semi_purple">#CFCFEB</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">FinansApp</string>
+    <style name="Base.Theme.FinansApp" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/white</item>
+    </style>
+    <style name="Theme.FinansApp" parent="Base.Theme.FinansApp"/>
+</resources>

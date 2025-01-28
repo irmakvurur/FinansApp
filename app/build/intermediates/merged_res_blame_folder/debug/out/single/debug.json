@@ -1,0 +1,174 @@
+[
+    {
+        "merged": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-merged_res-35:\\layout_activity_singin.xml.flat",
+        "source": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-main-37:\\layout\\activity_singin.xml"
+    },
+    {
+        "merged": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-merged_res-35:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-main-37:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-merged_res-35:\\drawable_search_icon.png.flat",
+        "source": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-main-37:\\drawable\\search_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-merged_res-35:\\layout_activity_fatura.xml.flat",
+        "source": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-main-37:\\layout\\activity_fatura.xml"
+    },
+    {
+        "merged": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-merged_res-35:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-main-37:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-merged_res-35:\\drawable_bottom_btn1.png.flat",
+        "source": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-main-37:\\drawable\\bottom_btn1.png"
+    },
+    {
+        "merged": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-merged_res-35:\\drawable_btn_3.png.flat",
+        "source": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-main-37:\\drawable\\btn_3.png"
+    },
+    {
+        "merged": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-merged_res-35:\\layout_viewholder_crypto.xml.flat",
+        "source": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-main-37:\\layout\\viewholder_crypto.xml"
+    },
+    {
+        "merged": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-merged_res-35:\\drawable_light_puurple_bg.xml.flat",
+        "source": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-main-37:\\drawable\\light_puurple_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-merged_res-35:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-main-37:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-merged_res-35:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-main-37:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-merged_res-35:\\layout_activity_signin.xml.flat",
+        "source": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-main-37:\\layout\\activity_signin.xml"
+    },
+    {
+        "merged": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-merged_res-35:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-main-37:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-merged_res-35:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-main-37:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-merged_res-35:\\drawable_qrcode.png.flat",
+        "source": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-main-37:\\drawable\\qrcode.png"
+    },
+    {
+        "merged": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-merged_res-35:\\layout_activity_gider.xml.flat",
+        "source": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-main-37:\\layout\\activity_gider.xml"
+    },
+    {
+        "merged": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-merged_res-35:\\drawable_btn_2.png.flat",
+        "source": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-main-37:\\drawable\\btn_2.png"
+    },
+    {
+        "merged": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-merged_res-35:\\drawable_ziraatbank.png.flat",
+        "source": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-main-37:\\drawable\\ziraatbank.png"
+    },
+    {
+        "merged": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-merged_res-35:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-main-37:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-merged_res-35:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-main-37:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-merged_res-35:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-main-37:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-merged_res-35:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-main-37:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-merged_res-35:\\drawable_purple_bg.xml.flat",
+        "source": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-main-37:\\drawable\\purple_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-merged_res-35:\\drawable_bottom_btn2.png.flat",
+        "source": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-main-37:\\drawable\\bottom_btn2.png"
+    },
+    {
+        "merged": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-merged_res-35:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-main-37:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-merged_res-35:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-main-37:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-merged_res-35:\\drawable_bottom_btn4.png.flat",
+        "source": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-main-37:\\drawable\\bottom_btn4.png"
+    },
+    {
+        "merged": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-merged_res-35:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-main-37:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-merged_res-35:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-main-37:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-merged_res-35:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-main-37:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-merged_res-35:\\drawable_btn_4.png.flat",
+        "source": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-main-37:\\drawable\\btn_4.png"
+    },
+    {
+        "merged": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-merged_res-35:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-main-37:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.finans.app-merged_res-35:/layout_activity_gelir_activtiy.xml.flat",
+        "source": "com.example.finans.app-main-37:/layout/activity_gelir_activtiy.xml"
+    },
+    {
+        "merged": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-merged_res-35:\\drawable_isbank.png.flat",
+        "source": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-main-37:\\drawable\\isbank.png"
+    },
+    {
+        "merged": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-merged_res-35:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-main-37:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-merged_res-35:\\layout_viewholder_stock.xml.flat",
+        "source": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-main-37:\\layout\\viewholder_stock.xml"
+    },
+    {
+        "merged": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-merged_res-35:\\drawable_oval_bg.xml.flat",
+        "source": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-main-37:\\drawable\\oval_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-merged_res-35:\\drawable_settings.png.flat",
+        "source": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-main-37:\\drawable\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-merged_res-35:\\drawable_btn_1.png.flat",
+        "source": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-main-37:\\drawable\\btn_1.png"
+    },
+    {
+        "merged": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-merged_res-35:\\drawable_garantibank.png.flat",
+        "source": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-main-37:\\drawable\\garantibank.png"
+    },
+    {
+        "merged": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-merged_res-35:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-main-37:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-merged_res-35:\\layout_activity_gelir_activtiy.xml.flat",
+        "source": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-main-37:\\layout\\activity_gelir_activtiy.xml"
+    },
+    {
+        "merged": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-merged_res-35:\\drawable_bottom_btn3.png.flat",
+        "source": "C:\\Users\\irmak\\.gradle\\daemon\\8.2\\com.example.finans.app-main-37:\\drawable\\bottom_btn3.png"
+    }
+]
